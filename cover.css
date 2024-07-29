@@ -1,17 +1,9 @@
-/*
- * Globals
- */
-/* Custom default button */
 .btn-light,
 .btn-light:hover,
 .btn-light:focus {
   color: #282828;
   text-shadow: none; /* Prevent inheritance from `body` */
 }
-
-/*
- * Base structure
- */
 
 body {
   text-shadow: .05rem .05rem .1rem #282828;
@@ -57,7 +49,7 @@ body {
   }
   80%
   {
-    background-image: url(greenforest.jpg);
+    background-image: url(darkforest.jpg);
   }
   90%
   {
