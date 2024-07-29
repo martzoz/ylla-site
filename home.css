@@ -8,7 +8,7 @@
 body {
   text-shadow: .05rem .05rem .1rem #282828;
   box-shadow: inset 0 .05 5rem #282828;
-  background-image: url('greenforest.jpg');
+  background-image: url('/home_assets/greenforest.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -21,39 +21,39 @@ body {
 @keyframes wallpaper{
   10%
   {
-    background-image: url(greenforest.jpg)
+    background-image: url(/home_assets/greenforest.jpg)
   }
   20%
   {
-    background-image: url(forest.jpg)
+    background-image: url(/home_assets/forest.jpg)
   }  
   30%
   {
-    background-image: url(foresthill.jpg)
+    background-image: url(/home_assets/foresthill.jpg)
   }
   40%
   {
-    background-image: url(mistyforest.jpg)
+    background-image: url(/home_assets/mistyforest.jpg)
   }
   50%
   {
-    background-image: url(lumberforest.jpg)
+    background-image: url(/home_assets/lumberforest.jpg)
   }
   60%
   {
-    background-image: url(autumnforest.jpg)
+    background-image: url(/home_assets/autumnforest.jpg)
   }
   70%
   {
-    background-image: url(blueforest.jpg)
+    background-image: url(/home_assets/blueforest.jpg)
   }
   80%
   {
-    background-image: url(darkforest.jpg);
+    background-image: url(/home_assets/darkforest.jpg);
   }
   90%
   {
-    background-image: url(greenforest.jpg)
+    background-image: url(/home_assets/greenforest.jpg)
   }
 }
 
